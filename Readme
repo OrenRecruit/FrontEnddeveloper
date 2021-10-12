@@ -1,1 +1,46 @@
 
+The details of the assignment is as follows:
+
+ Note for assignment – Front end: 
+
+The idea is to build a single page that displays the profile of 10 users based on the data obtained from API endpoint. We want applicants to create it similar to the below one with appropriate features
+
+General Tips
+
+	
+	• Feel free to use Google, StackOverflow, or any other resource
+	
+	• You are allowed to use any libraries or framework which are ideal for the requirement
+	
+	• Open the data API link in your browser and examine the response schema
+	
+	• All applicants are required to submit only one assignment.
+	
+
+API Links:
+
+	
+	• https://jsonplaceholder.typicode.com/users
+	
+	• https://avatars.dicebear.com/v2/avataaars/%7B%7Busername%7D%7D.svg?options[mood][]=happy
+	
+
+Submission guidelines:
+
+	
+	• All applicants must share their code in one of the following ways:
+	
+	• Upload their code on their Github account by creating a public repository and sharing the link via email.
+	
+	• Creating a zip file of the project folder and upload it in Github
+	
+
+In case you have any questions related to the assignment or the interview process, do write back to us - veera@orennow.com.
+
+
+All the best!
+
+Best regards,
+
+Hiring Team
+Oren
